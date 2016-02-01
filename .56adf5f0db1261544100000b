@@ -1,45 +1,48 @@
 ---
-time: 1454346041
+time: 1454351811
 inventory:
   "/blog/index.html":
-    md5: ff7a2a321d13008ddaa086d4ba236b18
-    time: 1454346036
+    md5: 5a5a27dbca9efce4da5eca61e77c5e62
+    time: 1454351805
   "/index.html":
-    md5: ff7a2a321d13008ddaa086d4ba236b18
-    time: 1454346036
+    md5: 5a5a27dbca9efce4da5eca61e77c5e62
+    time: 1454351805
   "/blog/ad-server-razones-par-internalizarlo/index.html":
-    md5: 357bd531e889f0a17562e51f73e3864b
-    time: 1454346036
+    md5: 5494f49cb1fca060823601c845e7a4f7
+    time: 1454351805
   "/blog/patrocinios-deportivos-y-redes-sociales/index.html":
-    md5: a2bdbadd015a367fe6e3903240e2d21f
-    time: 1454346036
+    md5: 82505a025072e16ecb92a0965f6b7b3d
+    time: 1454351805
   "/blog/periscope-como-difundir-eventos-corporativos/index.html":
-    md5: 67e6f4ee52b5da69968b45aadbe0bd49
-    time: 1454346036
+    md5: 130e7a9ba935fe45b696da300053cb58
+    time: 1454351805
   "/blog/cortoplacismo-modelo-atribucion-digital/index.html":
-    md5: 4cccb91c96765f25abd4ea47e724138b
-    time: 1454346036
+    md5: cd20f8cc946f31bf5a6db4d190fb77f4
+    time: 1454351805
   "/blog/social-media-sus-cuatro-objetivos-de-negocio/index.html":
-    md5: e9d0d44937320debc80c71e82792ead8
-    time: 1454346036
+    md5: 893a28de39659698b64e27e04843a7de
+    time: 1454351805
   "/blog/archive/index.html":
-    md5: 7004884d6db0dee344de3a361fb588b7
-    time: 1454346036
+    md5: d89e549747e893f1aa18c4987a45c0e6
+    time: 1454351805
   "/blog/tags/index.html":
-    md5: 20c344beba7cff9af3630faf74a92f65
-    time: 1454346036
+    md5: 1d84217afd2edc6bf51d5684ae8d7770
+    time: 1454351805
   "/blog/tags/social-media/index.html":
-    md5: 3fbece0fc0eaa018d2e55c755a8977c9
-    time: 1454346036
+    md5: ee98116e410aeb49b4777073d7c2814b
+    time: 1454351805
   "/blog/google-amp/index.html":
-    md5: b589e5a3a4eaf25e6bab37a8949f4115
-    time: 1454346036
+    md5: cd86ecdda0d6e8d78deeb43b17c6d56a
+    time: 1454351805
   "/CNAME":
-    md5: 67066312bfd34449967caa447f4a83d3
-    time: 1454346036
+    md5: 1ed6cd85fdc612fabf0dac1904bc1549
+    time: 1454351805
   "/sitemap.xml":
-    md5: 8769f21bc63784d0a52a025ceebefc55
-    time: 1454346036
+    md5: 8decca4b18ef40571eb6434dcc208df3
+    time: 1454351805
   "/feed.xml":
-    md5: 73872cb7568c40e2cf2ce6753028b65c
-    time: 1454346036
+    md5: 952dd54c03047bbcdf284b631134e57d
+    time: 1454351805
+  "/assets/google-amp-project.jpg":
+    md5: bddad593d477a451f5458ef4cfe5962f
+    time: 1454351805
