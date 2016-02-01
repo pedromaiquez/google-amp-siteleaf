@@ -1,0 +1,45 @@
+---
+time: 1454344471
+inventory:
+  "/blog/index.html":
+    md5: 47732392515a4f5299cfbffee4e00d96
+    time: 1454344466
+  "/index.html":
+    md5: 47732392515a4f5299cfbffee4e00d96
+    time: 1454344466
+  "/blog/ad-server-razones-par-internalizarlo/index.html":
+    md5: 599561748d22edaae063288d0a61641f
+    time: 1454344466
+  "/blog/patrocinios-deportivos-y-redes-sociales/index.html":
+    md5: 4ca1c348c41711b9125c8e7e7b28a8bb
+    time: 1454344466
+  "/blog/periscope-como-difundir-eventos-corporativos/index.html":
+    md5: 4ce5d16a63e6c6ffeaa809a3a589a96d
+    time: 1454344466
+  "/blog/cortoplacismo-modelo-atribucion-digital/index.html":
+    md5: 0faa6f34348333c796a45b020b58af26
+    time: 1454344466
+  "/blog/social-media-sus-cuatro-objetivos-de-negocio/index.html":
+    md5: be4b6f614ff26d379e089b38b81e2089
+    time: 1454344466
+  "/blog/archive/index.html":
+    md5: 692fac5eddf1142860eb4a083e94ba23
+    time: 1454344466
+  "/blog/tags/index.html":
+    md5: e7f23fb218b7d0f8d37e5fd25453bdf9
+    time: 1454344466
+  "/blog/tags/social-media/index.html":
+    md5: 9b4ee313377b315f490117c0a388f857
+    time: 1454344466
+  "/blog/google-amp/index.html":
+    md5: c91bf3363bb31fc9b5ea5af3421578a0
+    time: 1454344466
+  "/CNAME":
+    md5: c63d986c14fc42fe35fe34c8e676353f
+    time: 1454344466
+  "/sitemap.xml":
+    md5: 80fe6f413e8ef2f4ffa3e778094eefb6
+    time: 1454344466
+  "/feed.xml":
+    md5: cb1b0402202e32c137eec00874aec061
+    time: 1454344466
