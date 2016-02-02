@@ -1,51 +1,51 @@
 ---
-time: 1454425991
+time: 1454426078
 inventory:
-  "/blog/index.html":
-    md5: d931101c76de66fcc4ca2017949a6a05
-    time: 1454425985
+  "/a/index.html":
+    md5: 2a9fd4152b0f6c461c000e9885b2034c
+    time: 1454426072
   "/index.html":
-    md5: d931101c76de66fcc4ca2017949a6a05
-    time: 1454425985
-  "/blog/ad-server-razones-par-internalizarlo/index.html":
-    md5: a9d496931e356b3c7ed2980b5d08d0da
-    time: 1454425985
-  "/blog/patrocinios-deportivos-y-redes-sociales/index.html":
-    md5: 7886e38ad1c0e12f9a2431f1b799018c
-    time: 1454425985
-  "/blog/periscope-como-difundir-eventos-corporativos/index.html":
-    md5: 135550ac874e76a705c0c100fe8d4fb3
-    time: 1454425985
-  "/blog/cortoplacismo-modelo-atribucion-digital/index.html":
-    md5: cb03dfab66eb68c07a8d1d43d3c60c9e
-    time: 1454425985
-  "/blog/social-media-sus-cuatro-objetivos-de-negocio/index.html":
-    md5: 6265a25362b7b156a339f073954572a6
-    time: 1454425985
-  "/blog/archive/index.html":
-    md5: b1c40a85c7de77e6bf18a6fe1178fb10
-    time: 1454425986
-  "/blog/tags/index.html":
-    md5: 37f2e5636db770e3f3ec0b60c08e66dd
-    time: 1454425986
-  "/blog/tags/social-media/index.html":
-    md5: 173f4bf5512700eac070dc3c580ac290
-    time: 1454425986
+    md5: 2a9fd4152b0f6c461c000e9885b2034c
+    time: 1454426072
+  "/a/ad-server-razones-par-internalizarlo/index.html":
+    md5: 688a64905cd183ce5fccdb49bd894979
+    time: 1454426072
+  "/a/patrocinios-deportivos-y-redes-sociales/index.html":
+    md5: ecee20da73a871aa0c019c9d831a64d2
+    time: 1454426072
+  "/a/periscope-como-difundir-eventos-corporativos/index.html":
+    md5: fb93e924082edcda3ffe292f2d722a6a
+    time: 1454426072
+  "/a/cortoplacismo-modelo-atribucion-digital/index.html":
+    md5: 3924eb73ae7d7a1d976b3767e6bd61eb
+    time: 1454426072
+  "/a/social-media-sus-cuatro-objetivos-de-negocio/index.html":
+    md5: 675df7db5188bdee7e5760bf3a3b83d1
+    time: 1454426072
+  "/a/archive/index.html":
+    md5: 599524769a0d5593ff1b21913e58787b
+    time: 1454426072
+  "/a/tags/index.html":
+    md5: 7ff9e3c7e3f5e4ab980b8da386c5722d
+    time: 1454426072
+  "/a/tags/social-media/index.html":
+    md5: 56c8a9ed117cd62c44ba0420e8a9d340
+    time: 1454426072
   "/google-amp/index.html":
-    md5: 8113b5a285d1da8683738be29d5bc2ef
-    time: 1454425986
+    md5: 5e8e138c83fffa83feb426609b3279f5
+    time: 1454426072
   "/quien-soy/index.html":
-    md5: b73825bd56489648e7996851b7e85431
-    time: 1454425986
+    md5: 1f5b086ba4f455815f1e45583b77712c
+    time: 1454426072
   "/CNAME":
     md5: 1ed6cd85fdc612fabf0dac1904bc1549
     time: 1454351805
   "/sitemap.xml":
-    md5: b3d727fb66d8e6f541291830bf6c7452
-    time: 1454425986
+    md5: c4d106435dd89c69fda0170a93e1973c
+    time: 1454426072
   "/feed.xml":
-    md5: d10b61cf14fbacfd0afbfb631f4a7172
-    time: 1454425986
+    md5: 28004a5b7492abdac59b3b48ed2d8883
+    time: 1454426072
   "/assets/google-amp-project.jpg":
     md5: bddad593d477a451f5458ef4cfe5962f
     time: 1454351805
