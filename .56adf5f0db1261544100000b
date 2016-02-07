@@ -1,42 +1,42 @@
 ---
-time: 1454855284
+time: 1454855700
 inventory:
   "/a/index.html":
-    md5: e668b06b3e54080ed3978f28e4f5c239
-    time: 1454855279
+    md5: 8231fc0a51ea99253b1029829ab335bc
+    time: 1454855695
   "/index.html":
-    md5: e668b06b3e54080ed3978f28e4f5c239
-    time: 1454855279
+    md5: 8231fc0a51ea99253b1029829ab335bc
+    time: 1454855695
   "/a/ad-server-razones-par-internalizarlo/index.html":
-    md5: 83c42ec469e4f7ceb0c7896e80791fcd
-    time: 1454855279
+    md5: 799698bdbeb309f8494c80fe2b6a38eb
+    time: 1454855695
   "/a/patrocinios-deportivos-y-redes-sociales/index.html":
-    md5: 1736580ebad674f60ab3224999b3a054
-    time: 1454855279
+    md5: 4155b5dd438badfa7e9198f0633fb255
+    time: 1454855695
   "/a/periscope-como-difundir-eventos-corporativos/index.html":
-    md5: 1dffab1c03bbffb4950b434df0b3fe63
-    time: 1454855279
+    md5: ce31ecacd60c57a55187b4a8c14518b7
+    time: 1454855695
   "/a/cortoplacismo-modelo-atribucion-digital/index.html":
-    md5: b97c1e1041326bc3bfa0bf5ce8e74fbc
-    time: 1454855279
+    md5: 918eb67d0d3c63f76125366364dc5315
+    time: 1454855695
   "/a/social-media-sus-cuatro-objetivos-de-negocio/index.html":
-    md5: 65a449b1348dd1d05a1e5b34651f95e9
-    time: 1454855279
+    md5: 6e622c008adbb9e28784a310e75d7e03
+    time: 1454855695
   "/a/archive/index.html":
-    md5: 9667ac5f2dfb90530947c9763ae8f378
-    time: 1454855279
+    md5: a56482bd322465ef876057bada3b92e5
+    time: 1454855695
   "/a/tags/index.html":
-    md5: 20a5fb80ec809cd3a2021d712d1f863b
-    time: 1454855279
+    md5: ca9b04c067a63662c6287a98bad95a96
+    time: 1454855695
   "/a/tags/social-media/index.html":
-    md5: 53530642304dcdc4ca5ca2badcb1ef3b
-    time: 1454855279
+    md5: a2f174087342ef79655e1d5799f54858
+    time: 1454855695
   "/google-amp/index.html":
-    md5: d271689e1df69b2382386e0084e0a07c
-    time: 1454855279
+    md5: 00873f460951b67753251498b1e2cf11
+    time: 1454855695
   "/quien-soy/index.html":
-    md5: 935596a3081c9b59e2fad6c625c0d117
-    time: 1454855279
+    md5: bdbc40c81cb7d3a68cc545ab12b39148
+    time: 1454855695
   "/CNAME":
     md5: 1ed6cd85fdc612fabf0dac1904bc1549
     time: 1454351805
@@ -44,14 +44,11 @@ inventory:
     md5: 6ebd581af51201c42401bbe2569f32e8
     time: 1454428456
   "/feed.xml":
-    md5: 37228e31494572b6c0eb48a4da3a7e48
-    time: 1454855279
+    md5: f7721e4b4adde0857ef138fa0d004ee5
+    time: 1454855695
   "/assets/google-amp-project.jpg":
     md5: bddad593d477a451f5458ef4cfe5962f
     time: 1454351805
-  "/assets/thin.woff2":
-    md5: dcf716127638e175d70d0b97e300ee61
-    time: 1454855219
-  "/assets/medium.woff2":
-    md5: 53e26562eb330780d48ae95129e2ddd2
-    time: 1454855219
+  "/assets/thin.woff":
+    md5: 43165b189d758e692858b8dbafad2c06
+    time: 1454855695
